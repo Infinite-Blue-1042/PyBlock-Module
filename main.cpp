@@ -16,7 +16,7 @@ int main() {
   cout << “<!doctype html>\n”;
   cout << “<html lang=\”en\”>\n”;
   cout << “<head>\n”;
-  set_page_title(“Hello, World!”);
+  set_page_title(“PyBLock Website Example”);
   cout << “</head>\n”;
   cout << “<body>\n”;
   h1_text(“Hello, World!”);
