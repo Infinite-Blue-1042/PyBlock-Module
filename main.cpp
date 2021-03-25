@@ -19,7 +19,7 @@ int main() {
   set_page_title(“PyBLock Website Example”);
   cout << “</head>\n”;
   cout << “<body>\n”;
-  h1_text(“Hello, World!”);
+  h1_text(“This is a C example of webasite, which is not intended for use of the actual PyBlock Graphics”);
   cout << “</body>\n”;
   cout << “</html>”;
   return 0;
