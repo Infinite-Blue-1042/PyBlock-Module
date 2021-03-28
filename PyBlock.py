@@ -1,7 +1,7 @@
 # This is to install pip on OS
 def OS_PIP_INSTALL():
     import os
-
+    # Will reboot the window
     os.system('pip install --upgrade pip')
     os.system('pip install wheel')
     os.system('pip install twine')
