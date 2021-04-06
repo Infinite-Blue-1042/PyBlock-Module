@@ -1,3 +1,4 @@
+// This a website example in C++. THis uses some HTML and we can use PHP along with this as well.
 #include <iostream>
 #include <string>
 #include <stdlib.h>
